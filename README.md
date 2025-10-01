@@ -15,16 +15,7 @@ to enhance care delivery, patient engagement, and health equity.
 - Encourage **patient data donation** for research and public health  
 - Integrate PGHD into **clinical workflows & population health systems**  
 - Explore AI/ML applications for PGHD in **diabetes care and prevention**  
-
----
-
-## 📊 Contents
-- **Final Project Report** → `docs/SAT5131_Final_Project.pdf`  
-- **Draft Paper** → `docs/SAT5131_Final_Draft.docx`  
-- **Project Presentation** → `docs/Population_Health_Presentation.pptx`  
-- **System Analysis Updates** → Iterative progress reports (`docs/System_Analysis_First/Second/Third_Update.docx`)  
-- **Case Studies** → PGHD applications in diabetes, personalized medicine, prevention, and public health  
-
+ 
 ---
 
 ## 🛠️ Key Themes
