@@ -26,11 +26,6 @@ to enhance care delivery, patient engagement, and health equity.
 
 ---
 
-## 📸 Presentation Preview
-![Presentation Cover](docs/Screenshot_presentation.png)
-
----
-
 ## 📚 Future Enhancements
 - Add structured **data visualizations** from PGHD studies  
 - Publish **Python/R scripts** for population health analytics  
